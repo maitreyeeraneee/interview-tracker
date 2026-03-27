@@ -15,18 +15,14 @@ Built with a focus on **real-world usability**, this project demonstrates applie
 🔹 **Multi-Input Support**
 - Text input for quick analysis  
 - Audio upload (WAV/MP3) with automatic transcription  
-
 🔹 **Speech-to-Text**
 - Converts audio responses into text using Whisper  
-
 🔹 **Emotion Detection**
 - Detects emotional tone (e.g., confident, nervous, neutral)  
 - Provides confidence scores for each prediction  
-
 🔹 **Filler Word Analysis**
 - Identifies overused filler words:
   - *um, uh, like, you know, basically*  
-
 🔹 **Smart Feedback Engine**
 - Provides structured suggestions on:
   - Clarity  
@@ -99,7 +95,9 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 ## Project Files
 📦Interview-Analyzer
 ├── app.py              # Main Streamlit app
+
 ├── requirements.txt    # Dependencies
+
 └── README.md           # Project documentation
 
 ## What I Learned
