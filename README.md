@@ -68,21 +68,6 @@ text = result["text"]
 ```
 ---
 
-## System Workflow
-User Input (Text / Audio)
-        ↓
-If Audio → Whisper Transcription
-        ↓
-Processed Text
-        ↓
-Emotion Detection (Hugging Face)
-        ↓
-Filler Word Analysis
-        ↓
-Feedback Generation
-        ↓
-Results Display (Streamlit UI)
-
 ## Quick Start
 
 ```
