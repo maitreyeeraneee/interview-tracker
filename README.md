@@ -65,7 +65,7 @@ text = result["text"]
 -Converts spoken responses → structured text
 -Handles different accents reasonably well
 -Enables seamless pipeline: Audio → Text → Emotion Analysis
-
+```
 ---
 
 ## System Workflow
@@ -84,11 +84,11 @@ Feedback Generation
 Results Display (Streamlit UI)
 
 ## Quick Start
-```bash
+
+```
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
 Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 
