@@ -78,7 +78,9 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 
 ## Project Files
+
 📦Interview-Analyzer
+
 ├── app.py              # Main Streamlit app
 
 ├── requirements.txt    # Dependencies
@@ -93,5 +95,6 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 -Writing clean, production-level Python code
 
 ---
- 
+---
 🤝If you liked this project or want to collaborate, feel free to connect!
+---
